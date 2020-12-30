@@ -1,6 +1,6 @@
 # it9hrq.github.io
 
-Public website
+Public Website
 
 * https://it9hrq.github.io
 
